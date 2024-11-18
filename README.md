@@ -5,6 +5,6 @@
 - Build project using Apache Maven in IntelliJ, and run the ShawdowTaxi.java class in the src folder.
 
 ## Main tasks
-- Develop a taxi simulation game using the [Bagel(https://github.com/eleanor-em/bagel)] library.
+- Develop a taxi simulation game using the [Bagel](https://github.com/eleanor-em/bagel) library.
 - Plan class relationships using a UML diagram (pdf attached)
 - Demonstrate OOP principles: inheritance, interfaces, generics, design patterns.
