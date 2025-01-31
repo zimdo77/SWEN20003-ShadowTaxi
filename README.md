@@ -8,3 +8,11 @@
 - Develop a taxi simulation game using the [Bagel](https://github.com/eleanor-em/bagel) library.
 - Plan class relationships using a UML diagram (pdf attached)
 - Demonstrate OOP principles: inheritance, interfaces, generics, design patterns.
+
+## In-game screenshots
+![Home Screen](./in-game-screenshots/home-screen.png)
+![New Player Screen](./in-game-screenshots/new-player-screen.png)
+![Gameplay Screen 1](./in-game-screenshots/gameplay-screen-1.png)
+![Gameplay Screen 2](./in-game-screenshots/gameplay-screen-2.png)
+![Gameplay Screen 3](./in-game-screenshots/gameplay-screen-3.png)
+![Leaderboard Screen](./in-game-screenshots/leaderboard-screen.png)
