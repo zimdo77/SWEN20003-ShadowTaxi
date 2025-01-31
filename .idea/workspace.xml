@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="280b1552-d3a4-4502-a225-1d19b8f36ab3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/scores.csv" beforeDir="false" afterPath="$PROJECT_DIR$/res/scores.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Blood.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Coin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collidable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DamageInflictable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Damageable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DamagedTaxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EnemyCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Fire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Fireball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GameEndScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GameObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GamePlayScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GameState$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GameState$State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GameState.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HomeScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IOUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InvaderCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/InvinciblePower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MiscUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/OtherCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Passenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Playable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PlayerInfoScreen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Powerup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/RenderText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShadowTaxi$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShadowTaxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Smoke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Taxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TextDisplayable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Trip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TripEndFlag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/VisualEffect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WeatherCondition$Weather.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WeatherCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/WeatherObserver.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2sNH2QIbiGBrEopObqTIa1C7K67" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ShadowTaxi.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="SWEN20003-ShadowTaxi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="SWEN20003-ShadowTaxi" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="280b1552-d3a4-4502-a225-1d19b8f36ab3" name="Changes" comment="" />
+      <created>1738288905055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738288905055</updated>
+    </task>
+    <servers />
+  </component>
+</project>
